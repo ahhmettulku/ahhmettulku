@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ahmet ULKU
+- 👀 I’m interested in .Net and Python
+- 📫 How to reach me ahmetulku98@gmail.com
